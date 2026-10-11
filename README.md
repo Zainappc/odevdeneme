@@ -7,8 +7,8 @@ Bu web sitesi, kırtasiye ürünlerine kolayca göz atılmasını sağlamak ve t
 
 ## 🛠️ Kullanılan Teknolojiler
 Projenin geliştirilmesinde kullanılan temel teknolojiler:
-* **HTML5** (Sayfa yapısı ve içerik)
-* **CSS3** (Stillendirme ve tasarım)
+* **HTML5**
+* **CSS3** 
 * **Responsive Tasarım Prensipleri**
 
 ## Proje Dosya Yapısı
@@ -20,7 +20,7 @@ Projeye ait temel HTML ve medya dosyaları şunlardır:
 * `resimler / .webp / .jpg` - Projede kullanılan görsel varlıklar
 
 ## Sayfa Görselleri / Örnekler
-*(Projeye ait ekran görüntülerini buraya ekleyebilirsin)*
+
 
 ## ⚙️ Kurulum ve Çalıştırma
 Projeyi yerel bilgisayarınızda çalıştırmak için şu adımları izleyebilirsiniz:
